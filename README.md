@@ -9,7 +9,8 @@
 <span style="font-size: 12px;">Eu chamo David Kaua, tenho 19 anos e sou natural de São Luís Maranhão. Atualmente estou cursando Sistemas de Informação (SI). Programador com foco em Python e JavaScript, sempre buscando aprender e evoluir. Acredito no poder de código limpo e bem estruturado para criar soluções simples e eficientes.</span>
 
 ---
-🧰**Ferramentas**
+### 🧰Ferramentas
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
