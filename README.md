@@ -44,13 +44,6 @@
   
 </div>
 
-### 🌐Conexões
-<div>  
-    
-  <a href="https://instagram.com/DAVID_KAU_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:davidkau.c@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/davidkaua8232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-----
 ### 🎓Formação Acadêmica
 
 ![Sistemas de Informação - [UNDB]](https://img.shields.io/badge/Sistemas%20de%20Informação-[UNDB]-00BFFF?style=for-the-badge)  
@@ -58,6 +51,16 @@
 
 ![INCODE - Tech School](https://img.shields.io/badge/INCODE-Tech%20School-4CAF50?style=for-the-badge)  
 **2025 - 2025** | Concluído
+
+
+### 🌐Conexões
+<div>  
+    
+  <a href="https://instagram.com/DAVID_KAU_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:davidkau.c@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/davidkaua8232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+----
+
   <div align="center">
    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
    <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by coffee" />
