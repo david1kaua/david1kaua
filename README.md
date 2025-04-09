@@ -1,5 +1,12 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Me+chamo+David+kaua!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Me+chamo+David!;" />
+
+
+<div align="center" class="animated-header">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+FullStack;Sistemas+de+Informação;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+</div>
+
+<div class="matrix-animation"></div>
 
 ### Desenvolvedor fullstack
 
