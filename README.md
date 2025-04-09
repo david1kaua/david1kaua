@@ -1,6 +1,11 @@
-👨‍💻**DAVID KAUA**
----
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+Me+chamo+David+kaua!;" />
+
+
+
+
 ### Desenvolvedor fullstack
+
 <span style="font-size: 12px;">Eu chamo David Kaua, tenho 19 anos e sou natural de São Luís Maranhão. Atualmente estou cursando Sistemas de Informação (SI). Programador com foco em Python e JavaScript, sempre buscando aprender e evoluir. Acredito no poder de código limpo e bem estruturado para criar soluções simples e eficientes.</span>
 
 ---
